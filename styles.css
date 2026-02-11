@@ -397,7 +397,7 @@ body {
 .pricing-card {
     background-color: var(--text-white);
     padding: 30px 25px;
-    border-radius: 10px;
+    border-radius: 15px;
     text-align: center;
     position: relative;
     transition: all 0.3s ease;
